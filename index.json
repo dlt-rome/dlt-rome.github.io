@@ -1,5 +1,12 @@
 [
 {
+	"uri": "/_about_us/",
+	"title": "About us",
+	"tags": [],
+	"description": "",
+	"content": " Andrea Vitaletti - Associate Professor at La Sapienza Marco Zecchini - Ph.D. student at La Sapienza Giammarco D\u0026rsquo;Alessandro - Student at La Sapienza Luca Gioffrè - Student at La Sapienza Davide - Student at La Sapienza  "
+},
+{
 	"uri": "/posts/first/",
 	"title": "First",
 	"tags": [],
@@ -8,17 +15,17 @@
 },
 {
 	"uri": "/",
-	"title": "",
+	"title": "DLT Group - Sapienza",
 	"tags": [],
 	"description": "",
-	"content": " DLT group @ Sapienza Dlt group from sapienza\n"
+	"content": " DLT Group - Sapienza The DLT group of \u0026lsquo;La Sapienza\u0026rsquo; is a research and development group of blockchain technologies based at the Department of Automatic and Management Informatics Engineering - Antonio Ruberti.\nCurrently we are employed in the research of solutions with DLT technologies for the management of copyright.\n"
 },
 {
 	"uri": "/_footer/",
 	"title": "_Footer",
 	"tags": [],
 	"description": "",
-	"content": "dltgroup sapienza\n"
+	"content": "DLT Group - Sapienza\n"
 },
 {
 	"uri": "/categories/",

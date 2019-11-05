@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DLT Sapienza</title>
+    <title>DLT Group - Sapienza on DLT Sapienza</title>
     <link>/</link>
-    <description>Recent content on DLT Sapienza</description>
+    <description>Recent content in DLT Group - Sapienza on DLT Sapienza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 14:55:53 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About us</title>
+      <link>/_about_us/</link>
+      <pubDate>Tue, 05 Nov 2019 23:02:22 +0100</pubDate>
+      
+      <guid>/_about_us/</guid>
+      <description> Andrea Vitaletti - Associate Professor at La Sapienza Marco Zecchini - Ph.D. student at La Sapienza Giammarco D&amp;rsquo;Alessandro - Student at La Sapienza Luca Gioffrè - Student at La Sapienza Davide - Student at La Sapienza  </description>
+    </item>
     
     <item>
       <title>First</title>
@@ -26,7 +35,7 @@
       <pubDate>Tue, 29 Oct 2019 14:55:29 +0100</pubDate>
       
       <guid>/_footer/</guid>
-      <description>dltgroup sapienza</description>
+      <description>DLT Group - Sapienza</description>
     </item>
     
   </channel>
